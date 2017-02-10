@@ -70,7 +70,7 @@
     <dependency>
       <groupId>com.io7m.thoth</groupId>
       <artifactId>io7m-thoth-command-api</artifactId>
-      <version>0.2.0</version>
+      <version>[1.0.0, 2.0.0)</version>
     </dependency>
 
     <dependency>
