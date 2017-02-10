@@ -7,7 +7,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.io7m.thoth-meat</groupId>
   <artifactId>thoth-meat</artifactId>
-  <version>0.1.0</version>
+  <version>1.0.0</version>
   <packaging>bundle</packaging>
   <name>thoth-meat</name>
   <description>Unnecessary and unsolicited meat commentary</description>
